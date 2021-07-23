@@ -1,1 +1,4 @@
 # Backup
+/login
+/register
+/getDetails
